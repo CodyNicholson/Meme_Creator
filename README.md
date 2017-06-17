@@ -1,4 +1,4 @@
-# Meme_Creator
+# Meme Creator Project
 
 This is a meme creator web application I made to add value to my company in the form of entertainment
 

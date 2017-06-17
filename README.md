@@ -1,2 +1,7 @@
 # Meme_Creator
-This is a meme creator I made to add value to my company in the form of entertainment
+
+This is a meme creator web application I made to add value to my company in the form of entertainment
+
+Follow this link to try it for yourself: https://codynicholson.github.io/Meme_Creator/
+
+It works on phones too, but your phone needs to be in landscape orientation (Not portrait)
